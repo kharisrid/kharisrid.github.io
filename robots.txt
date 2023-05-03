@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kharisrid.github.io/sitemap.xml
